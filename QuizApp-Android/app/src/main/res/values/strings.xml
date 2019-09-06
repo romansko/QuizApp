@@ -1,0 +1,52 @@
+<resources>
+    <!-- Menu Settings -->
+    <string name="show_all_q">View all questions</string>
+    <string name="exit">Exit</string>
+    <string name="reload_quiz">Reset current quiz</string>
+    <string name="report_mistake">Error report</string>
+    <string name="set_quiz_size">Set questions in quiz</string>
+    <string name="reset_all">Progress reset</string>
+    <string name="fb_failed">Question loading failed. Please check your internet connection</string>
+
+    <string name="app_name">QuizApp</string>
+    <string name="question">Question</string>
+    <string name="answer">Answer</string>
+    <string name="explanation">Explanation</string>
+    <string name="question_image">Question Image</string>
+    <string name="indicator">indicator</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="exit_dialog_title">Exit</string>
+    <string name="exit_dialog_text">Are you sure?</string>
+    <string name="check">Check answer</string>
+    <string name="select_answer">You must choose a choice</string>
+    <string name="no_questions">No questions to view!</string>
+    <string name="current_quiz_reloaded">Current quiz reloaded</string>
+    <string name="all_questions_reloaded">All questions reloaded from Database</string>
+    <string name="next_question">Next question</string>
+    <string name="load_new_quiz">Load new quiz</string>
+
+
+    <string name="well_done_message">Well Done Message</string>
+    <string name="answered_on">answered on</string>
+    <string name="score">Score</string>
+    <string name="excellent">Excellent!</string>
+    <string name="failed">Fail</string>
+    <string name="questions_answered_status">You answered XXX out of YYY questions</string>
+    <string name="q_in_quiz">Number of questions in a quiz</string>
+    <string name="define">Set</string>
+    <string name="invalid_input">Invalid input!</string>
+    <string name="cancel">Cancel</string>
+    <string name="fb_empty">No questions found in the database</string>
+    <string name="new_quiz_populated">New quiz loaded</string>
+    <string name="question_x_out_of">Question XXX out of YYY</string>
+    <string name="q_in_db">Total questions:</string>
+
+    <string name="default_notification_channel_id">Global Channel</string>
+    <string name="group_name">Group 1</string>
+    <string name="notifications_admin_channel_name">Global channel</string>
+    <string name="notifications_admin_channel_description">Notifications sent from the app admin</string>
+    <string name="q_updated_msg">Database has been updated. Reload questions?</string>
+</resources>

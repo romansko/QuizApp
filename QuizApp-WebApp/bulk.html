@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html><!--dir="rtl" lang="he"-->
+<head>
+	<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+	<meta charset="utf-8">
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <title>QuizApp - All Questions</title>
+    <style>
+        .bottom_aligner {
+            display: inline-block;
+            height: 100%;
+            vertical-align: bottom;
+            text-align: center;
+            width: 95vw;
+        }
+    </style>
+    <div id="all-questions"></div>
+</head>
+
+
+<body style="padding:20px;">
+    <script>
+        window.onload = function () {
+            if (localStorage.getItem("bulkString")) {
+                $("#bulk-string").html(localStorage["bulkString"]);
+                localStorage.removeItem("bulkString");
+            }
+        };
+    </script>
+    <div id="bulk-string"></div>
+</body>
+
+</html>

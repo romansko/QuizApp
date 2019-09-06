@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "951232044858",
+    "firebase_url": "https://quizapp-defe5.firebaseio.com",
+    "project_id": "quizapp-defe5",
+    "storage_bucket": "quizapp-defe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951232044858:android:55b3e42eb3028485",
+        "android_client_info": {
+          "package_name": "com.rkcodesolution.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951232044858-g9uemn2h5tucjb87q3ivb1b4m127v1k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBiu5x-ntNigPv4WBIaPMBqq-oXA4NvSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951232044858-g9uemn2h5tucjb87q3ivb1b4m127v1k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

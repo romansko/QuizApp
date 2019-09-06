@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/reloadQuiz"
+        android:title="@string/reload_quiz" />
+    <item
+        android:id="@+id/newQuiz"
+        android:title="@string/load_new_quiz" />
+    <item
+        android:id="@+id/setQuizSize"
+        android:title="@string/set_quiz_size" />
+    <item
+        android:id="@+id/allQuesitonsView"
+        android:title="@string/show_all_q"
+        app:showAsAction="never" />  <!-- This allows the icon to be displayed -->
+    <item
+        android:id="@+id/resetAll"
+        android:title="@string/reset_all" />
+    <item
+        android:id="@+id/exit"
+        android:title="@string/exit" />
+</menu>

@@ -1,0 +1,180 @@
+{
+  "rootName" : [  
+ {
+    "choices" : {
+      "A" : "Users, stakeholders, development team.",
+      "B" : "Users, stakeholders, scrum master, management.",
+      "C" : "Users, management, scrum master, development team.",
+      "D" : "Users, investors, management, quality assurance team."
+    },
+    "correct" : "Users, stakeholders, development team.",
+    "explanation" : "",
+    "image" : "",
+    "question" : "In AgileScrum development methodology, responsible for creating Product Backlog are:"
+  }, {
+    "choices" : {
+      "A" : "Ag - delivered in increasing level of whole development period. Wat - delivered in the end of the development period.",
+      "B" : "None is correct.",
+      "C" : "Ag - delivered in the same level of whole development period. Wat - delivered only in the end of the development period.",
+      "D" : "Ag - delivered in the middle and in the end of the development period. Wat - delivered in the end of the development period."
+    },
+    "correct" : "Ag - delivered in increasing level of whole development period. Wat - delivered in the end of the development period.",
+    "explanation" : "",
+    "image" : "",
+    "question" : "Difference between Agile (Ag) and Waterfall (Wat) models in the product deliverability aspect:"
+  }, {
+    "choices" : {
+      "A" : "Ag - the higher level in the beginning and reduced in the final stage, Wat - in the increasing level from start to finish.",
+      "B" : "Ag - GFC is the same level during whole development period, Wat - high in the middle period.",
+      "C" : "Ag - the low level in the beginning and increasing one in the final stage, Wat - in the reducing level from start to finish.",
+      "D" : "Ag - the high level in the beginning and almost zero in the final stage, Wat - in the reducing level from start to finish."
+    },
+    "correct" : "Ag - the higher level in the beginning and reduced in the final stage, Wat - in the increasing level from start to finish.",
+    "explanation" : "",
+    "image" : "",
+    "question" : "Difference between Agile (Ag) and Waterfall (Wat) models in the Grade of Failure Change (GFC) aspect:"
+  }, {
+    "choices" : {
+      "A" : "Ag - the same for all period, Wat - higher in the final development period.",
+      "B" : "None is correct.",
+      "C" : "Ag - increasing iteratively for all period, Wat - higher in the final development period.",
+      "D" : "Ag - the same for all period, Wat - higher in the final development period."
+    },
+    "correct" : "Ag - the same for all period, Wat - higher in the final development period.",
+    "explanation" : "",
+    "image" : "",
+    "question" : "Difference between Agile (Ag) and Waterfall (Wat) models in the Project Run Rate aspect:"
+  }, {
+    "choices" : {
+      "A" : "Error - An incorrect internal state of the system.",
+      "B" : "Error- A static defect in the software.",
+      "C" : "Error - The actual 'mistake' in the code.",
+      "D" : "Error - An incorrect syntax of a code."
+    },
+    "correct" : "Error - An incorrect internal state of the system.",
+    "explanation" : "",
+    "image" : "",
+    "question" : "What is not ERROR definition:"
+  }, {
+    "choices" : {
+      "A" : "Fault is the incorrect state in the system that results from the error. Failure is the deviation from expected behavior observed by the user.",
+      "B" : "Fault demonstrates the bad state in the system because of an existing error. Failure demonstrate external incorrect state of the system.",
+      "C" : "Failure is internal incorrect behavior with respect to the requirements. Fault presents external result of the error.",
+      "D" : "Fault is internal incorrect behavior with respect to the requirements. Failure presents external result of the error."
+    },
+    "correct" : "Fault is the incorrect state in the system that results from the error. Failure is the deviation from expected behavior observed by the user.",
+    "explanation" : "",
+    "image" : "",
+    "question" : "Difference between software fault and failure is:"
+  }, {
+    "choices" : {
+      "A" : "MFf helps to isolate the testing code by replacing other parts of the application with fake objects.",
+      "B" : "MFf helps to test the code you are developing by introducing interfaces to the code of tests.",
+      "C" : "MFf helps in refactoring the code you are testing by using interfaces.",
+      "D" : "All are correct."
+    },
+    "correct" : "MFf helps to isolate the testing code by replacing other parts of the application with fake objects.",
+    "explanation" : "",
+    "image" : "",
+    "question" : "Which sentence below are correct regarding to Microsoft Fakes framework (MFf)?"
+  }, {
+    "choices" : {
+      "A" : "Test requirements for a dead code.",
+      "B" : "Requirements that may be satisfied.",
+      "C" : "The situation when no test cases that meet the test requirements of a dead code exist.",
+      "D" : "All are correct."
+    },
+    "correct" : "Test requirements for a dead code.",
+    "explanation" : "",
+    "image" : "",
+    "question" : "Infeasible test requirements are:"
+  }, {
+    "choices" : {
+      "A" : "Indirect Input are updated parameters of procedures or subroutines.",
+      "B" : "The situation when the behavior of the SUT is affected by the values returned by another component whose services it uses.",
+      "C" : "Both answers are correct.",
+      "D" : "None are Correct."
+    },
+    "correct" : "Indirect Input are updated parameters of procedures or subroutines.",
+    "explanation" : "",
+    "image" : "",
+    "question" : "What is Indirect Input?"
+  }, {
+    "choices" : {
+      "A" : "It is the situation when a method should address single task and does it well and also should have clear intent.",
+      "B" : "It is the situation when a method addresses several tasks in the same time.",
+      "C" : "It is the situation when a method should perform one or several tasks efficiently.",
+      "D" : "It is the situation when a method should perform several tasks simultaneously."
+    },
+    "correct" : "It is the situation when a method should address single task and does it well and also should have clear intent.",
+    "explanation" : "",
+    "image" : "",
+    "question" : "What does it mean - 'Methods should have strong cohesion'?"
+  }, {
+    "choices" : {
+      "A" : "It's a test in which we replace the real DOC on a mock one.",
+      "B" : "It's a test which we created from another one.",
+      "C" : "It's a test which we created from another one and performed code refactoring.",
+      "D" : "It's a test in which we replace using of concrete class on using an interface."
+    },
+    "correct" : "It's a test in which we replace the real DOC on a mock one.",
+    "explanation" : "",
+    "image" : "",
+    "question" : "What is 'Test Double'?"
+  }, {
+    "choices" : {
+      "A" : "In Decision Table input conditions are assumed to be independent.",
+      "B" : "Decision Table represents correlation between input conditions and output actions.",
+      "C" : "A rule (column) represents correctness of input conditions.",
+      "D" : "Two rules (columns) can correspond to the same output actions."
+    },
+    "correct" : "In Decision Table input conditions are assumed to be independent.",
+    "explanation" : "",
+    "image" : "",
+    "question" : "Which sentence about Decision Table is incorrect?"
+  }, {
+    "choices" : {
+      "A" : "1,2,3,5,6",
+      "B" : "1,2,4,5,6",
+      "C" : "2,4,5,6",
+      "D" : "1,2,4,5"
+    },
+    "correct" : "1,2,3,5,6",
+    "explanation" : "$",
+    "image" : "https://raw.githubusercontent.com/Romansko/RegaRegaRega/master/img/q/q1.PNG",
+    "question" : "For a Data Flow (presented in the photo), the Definition-Clear Path is:"
+  }, {
+    "choices" : {
+      "A" : "Multiple bugs influence to the results of executed tests.",
+      "B" : "Not enough tests.",
+      "C" : "Considering oftest cases related to different parts of the program.",
+      "D" : "All proposed hypotheses are rejected in process of their proving."
+    },
+    "correct" : "Multiple bugs influence to the results of executed tests.",
+    "explanation" : "",
+    "image" : "",
+    "question" : "What can be the reason of deadlock in debugging by induction process?"
+  }, {
+    "choices" : {
+      "A" : "5",
+      "B" : "4",
+      "C" : "3",
+      "D" : "6"
+    },
+    "correct" : "5",
+    "explanation" : "Pay attention: valid month and valid year are in the same input partition - the valid partition",
+    "image" : "",
+    "question" : "An application calculates a water consumption during the considered month The input consists of two integer values: a month and a year In the database there exist data from year 2000 What is a number of test cases obtained by using equivalence partition approach?"
+  }, {
+    "choices" : {
+      "A" : "5",
+      "B" : "4",
+      "C" : "6",
+      "D" : "3"
+    },
+    "correct" : "5",
+    "explanation" : "$",
+    "image" : "https://raw.githubusercontent.com/Romansko/RegaRegaRega/master/img/q/q2.png",
+    "question" : "What is cyclomatic number for a peace of code presented in the photo?"
+  }  ]
+}

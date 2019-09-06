@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/background"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/question"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dp"
+        android:layout_weight="1"
+        android:layoutDirection="rtl"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
+        android:text="@string/question"
+        android:textAlignment="textStart"
+        android:textColor="@android:color/black"
+        android:textDirection="ltr"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/answer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dp"
+        android:layout_weight="1"
+        android:layoutDirection="rtl"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
+        android:text="@string/answer"
+        android:textAlignment="textStart"
+        android:textColor="@android:color/holo_green_dark"
+        android:textDirection="ltr" />
+
+    <TextView
+        android:id="@+id/explanation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dp"
+        android:layout_weight="1"
+        android:layoutDirection="rtl"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
+        android:text="@string/explanation"
+        android:textAlignment="textStart"
+        android:textDirection="ltr"
+        android:textStyle="italic" />
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dp"
+        android:layout_weight="1"
+        android:contentDescription="@string/question_image"
+        app:srcCompat="@drawable/common_full_open_on_phone" />
+</LinearLayout>

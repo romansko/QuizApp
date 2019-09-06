@@ -1,0 +1,101 @@
+In Agile/Scrum development methodology, responsible for creating Product Backlog are:
+Users, stakeholders, development team.
+Users, stakeholders, scrum master, management.
+Users, management, scrum master, development team.
+Users, investors, management, quality assurance team.
+;
+Difference between Agile (Ag) and Waterfall (Wat) models in the product deliverability aspect:
+Ag - delivered in increasing level of whole development period. Wat - delivered in the end of the development period.
+None is correct.
+Ag - delivered in the same level of whole development period. Wat - delivered only in the end of the development period.
+Ag - delivered in the middle and in the end of the development period. Wat - delivered in the end of the development period.
+;
+Difference between Agile (Ag) and Waterfall (Wat) models in the Grade of Failure Change (GFC) aspect:
+Ag - the higher level in the beginning and reduced in the final stage, Wat - in the increasing level from start to finish.
+Ag - GFC is the same level during whole development period, Wat - high in the middle period.
+Ag - the low level in the beginning and increasing one in the final stage, Wat - in the reducing level from start to finish.
+Ag - the high level in the beginning and almost zero in the final stage, Wat - in the reducing level from start to finish.
+;
+Difference between Agile (Ag) and Waterfall (Wat) models in the Project Run Rate aspect:
+Ag - the same for all period, Wat - higher in the final development period.
+None is correct.
+Ag - increasing iteratively for all period, Wat - higher in the final development period.
+Ag - the same for all period, Wat - higher in the final development period.
+;
+What is not ERROR definition:
+Error - An incorrect internal state of the system.
+Error- A static defect in the software.
+Error - The actual 'mistake' in the code.
+Error - An incorrect syntax of a code.
+;
+Difference between software fault and failure is:
+Fault is the incorrect state in the system that results from the error. Failure is the deviation from expected behavior observed by the user.
+Fault demonstrates the bad state in the system because of an existing error. Failure demonstrate external incorrect state of the system.
+Failure is internal incorrect behavior with respect to the requirements. Fault presents external result of the error.
+Fault is internal incorrect behavior with respect to the requirements. Failure presents external result of the error.
+;
+Which sentence below are correct regarding to Microsoft Fakes framework (MFf)?
+MFf helps to isolate the testing code by replacing other parts of the application with fake objects.
+MFf helps to test the code you are developing by introducing interfaces to the code of tests.
+MFf helps in refactoring the code you are testing by using interfaces.
+All are correct.
+;
+Infeasible test requirements are:
+Test requirements for a dead code.
+Requirements that may be satisfied.
+The situation when no test cases that meet the test requirements of a dead code exist.
+All are correct.
+;
+What is Indirect Input?
+Indirect Input are updated parameters of procedures or subroutines.
+The situation when the behavior of the SUT is affected by the values returned by another component whose services it uses.
+Both answers are correct.
+None are Correct.
+;
+What does it mean - "Methods should have strong cohesion"?
+It is the situation when a method should address single task and does it well and also should have clear intent.
+It is the situation when a method addresses several tasks in the same time.
+It is the situation when a method should perform one or several tasks efficiently.
+It is the situation when a method should perform several tasks simultaneously.
+;
+What is "Test Double"?
+It's a test in which we replace the real DOC on a mock one.
+It's a test which we created from another one.
+It's a test which we created from another one and performed code refactoring.
+It's a test in which we replace using of concrete class on using an interface.
+;
+Which sentence about Decision Table is incorrect?
+In Decision Table input conditions are assumed to be independent.
+Decision Table represents correlation between input conditions and output actions.
+A rule (column) represents correctness of input conditions.
+Two rules (columns) can correspond to the same output actions.
+;
+For a Data Flow (presented in the photo), the Definition-Clear Path is:
+1,2,3,5,6
+1,2,4,5,6
+2,4,5,6
+1,2,4,5
+$
+https://raw.githubusercontent.com/Romansko/RegaRegaRega/master/img/q/q1.PNG
+;
+What can be the reason of deadlock in debugging by induction process?
+Multiple bugs influence to the results of executed tests.
+Not enough tests.
+Considering oftest cases related to different parts of the program.
+All proposed hypotheses are rejected in process of their proving.
+;
+An application calculates a water consumption during the considered month. The input consists of two integer values: a month and a year. In the database there exist data from year 2000. What is a number of test cases obtained by using equivalence partition approach?
+5
+4
+3
+6
+Pay attention: valid month and valid year are in the same input partition - the valid partition
+;
+What is cyclomatic number for a peace of code presented in the photo?
+5
+4
+6
+3
+$
+https://raw.githubusercontent.com/Romansko/RegaRegaRega/master/img/q/q2.png
+;
