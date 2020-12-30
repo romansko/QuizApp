@@ -27,3 +27,10 @@ In order to make everything to work, you will need to setup your own database in
 
 
 *This Project is inspired by https://github.com/jrue/JavaScript-Quiz by Jeremy Rue. The QuizApp-WebApp is based on Jeremy's project.*
+
+
+## Example
+Example for usage, can be found in the following links. The example is for Human Computer Interface course.
+1. Web App:     https://github.com/Romansko/HCI
+2. Andorid App: https://play.google.com/store/apps/details?id=com.rkcodesolution.hci
+
