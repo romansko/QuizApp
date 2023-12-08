@@ -9,9 +9,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("QuestionGenerator")]
 [assembly: AssemblyDescription("JSON Question Genrator")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("RK Code Solution")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("QuestionGenerator")]
-[assembly: AssemblyCopyright("Roman Koifman ©  2018")]
+[assembly: AssemblyCopyright("Roman Koifman ©  2023")]
 [assembly: AssemblyTrademark("RKCS")]
 [assembly: AssemblyCulture("")]
 
@@ -34,6 +34,6 @@ using System.Runtime.InteropServices;
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0")]
-[assembly: AssemblyFileVersion("1.1")]
+[assembly: AssemblyFileVersion("1.2")]
 [assembly: NeutralResourcesLanguage("en")]
 

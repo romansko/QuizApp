@@ -36,6 +36,9 @@
   <PropertyGroup>
     <ApplicationIcon>Resources\questionIcon.ico</ApplicationIcon>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>QuestionGenerator.Program</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />

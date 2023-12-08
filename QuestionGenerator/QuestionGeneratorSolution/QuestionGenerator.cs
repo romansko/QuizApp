@@ -142,7 +142,7 @@ namespace QuestionGenerator
 
         private void WrapperTB_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (!char.IsControl(e.KeyChar) && !Regex.IsMatch(e.KeyChar.ToString(), @"[a-zA-Z]"))
+            if (!char.IsControl(e.KeyChar) && !Regex.IsMatch(e.KeyChar.ToString(), @"[a-zA-Z0-9]"))
             {
                 e.Handled = true;
             }
