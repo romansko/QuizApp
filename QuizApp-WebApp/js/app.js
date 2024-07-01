@@ -384,13 +384,14 @@ var rootRef;
 /// ToDo: Replace firebaseConfig with your firebase project config.
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "AIzaSyBDB-vYHKt6S8V6C4U41SI3iTtKYbPGBro",
-  authDomain: "quizapp-defe5.firebaseapp.com",
-  databaseURL: "https://quizapp-defe5.firebaseio.com",
-  projectId: "quizapp-defe5",
-  storageBucket: "",
-  messagingSenderId: "951232044858",
-  appId: "1:951232044858:web:9da93cd444838f31"
+  apiKey: "AIzaSyAdMrcFDpKBsAE_mgMmzeuUcJHi1W4co1o",
+  authDomain: "inifibackojj.firebaseapp.com",
+  databaseURL: "https://inifibackojj-default-rtdb.firebaseio.com",
+  projectId: "inifibackojj",
+  storageBucket: "inifibackojj.appspot.com",
+  messagingSenderId: "317047502444",
+  appId: "1:317047502444:web:7ad6632d1ff977d74dca49",
+  measurementId: "G-GP9MSPMPJ1"
 };
 
 // Initialize Firebase.
